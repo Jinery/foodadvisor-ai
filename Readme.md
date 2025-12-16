@@ -9,7 +9,7 @@
 
 **An intelligent food classification system that can identify 101 different types of food from images**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Dataset](#-dataset) • [Results](#-results) • [License](#-license)
+[Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) • [License](https://github.com/Jinery/foodadvisor-ai/blob/master/LICENSE)
 
 </div>
 
